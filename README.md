@@ -5,6 +5,16 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=ppaanngggg&show_icons=true&locale=en&card_width=300" alt="ppaanngggg" />
 
+<h2>🎉 My Side Projects</h2>
+<p>
+  <img src="https://www.aimathsolve.com/favicon.ico" alt="icon of AI Math Solver" width="24" height="24" />
+  <a href="https://www.aimathsolve.com" target="_blank">AI Math Solver</a> - An AI-powered math problem solver
+</p>
+<p>
+  <img src="https://token-counter.app/favicon.ico" alt="icon of LLM Token Coutner" width="24" height="24" />
+  <a href="https://token-counter.app" target="_blank">LLM Token Counter</a> - A tool for counting tokens in Large Language Models
+</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
@@ -28,15 +38,6 @@
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ppaanngggg&show_icons=true&locale=en&layout=compact&exclude_repo=fhog,Speedx,KCFTracker,PyCTP,MyGrabCut,LockScreen,3d_printer,HumanTrack,ObjectFinder,PMIG" alt="ppaanngggg" />
-</p>
-
-<h2>⚡️ Where to find me</h2>
-
-<p>
-<a target="_blank" href="https://stackoverflow.com/users/7279222" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a>
-</p>
-<p>
-<a href="https://app.daily.dev/hantian_pang"><img src="https://api.daily.dev/devcards/v2/UZJ811peeEMRLM45XvevD.png?type=wide&r=3qm" width="400" alt="hantian pang's Dev Card"/></a>
 </p>
 
 <h2>❤️ Support Me</h2>
