@@ -7,6 +7,10 @@
 
 <h2>🎉 My Side Projects</h2>
 <p>
+  <img src="https://stockwise.pro/favicon.ico" alt="icon of Stock Wise" width="24" height="24" />
+  <a href="https://stockwise.pro" target="_blank">StockWise</a> - Next generation investing platform
+</p>
+<p>
   <img src="https://www.aimathsolve.com/favicon.ico" alt="icon of AI Math Solver" width="24" height="24" />
   <a href="https://www.aimathsolve.com" target="_blank">AI Math Solver</a> - An AI-powered math problem solver
 </p>
