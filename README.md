@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Hantian Pang</h1>
 
 <p>
-  I am a full-stack developer interested in investment and machine learning. I'd like to open source user-friendly application.
+  I am a full-stack developer interested in investment and machine learning. I'd like to open source user-friendly application. And I am a coffee roaster!
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=ppaanngggg&show_icons=true&locale=en&card_width=300" alt="ppaanngggg" />
 
