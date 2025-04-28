@@ -11,12 +11,12 @@
   <a href="https://design0.app" target="_blank">Design0</a> - Effortless Design for Everyone
 </p>
 <p>
-  <img src="https://stockwise.pro/favicon.ico" alt="icon of Stock Wise" width="24" height="24" />
-  <a href="https://stockwise.pro" target="_blank">StockWise</a> - Next generation investing platform
-</p>
-<p>
   <img src="https://www.aimathsolve.com/favicon.ico" alt="icon of AI Math Solver" width="24" height="24" />
   <a href="https://www.aimathsolve.com" target="_blank">AI Math Solver</a> - An AI-powered math problem solver
+</p>
+<p>
+  <img src="https://freeocr.ai/favicon.ico" alt="icon of FreeOCR.AI" width="24" height="24" />
+  <a href="https://stockwise.pro" target="_blank">FreeOCR.AI</a> - Free OCR powered by AI
 </p>
 <p>
   <img src="https://token-counter.app/favicon.ico" alt="icon of LLM Token Coutner" width="24" height="24" />
