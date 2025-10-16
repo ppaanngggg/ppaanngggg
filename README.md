@@ -7,8 +7,8 @@
 
 <h2>🎉 My Side Projects</h2>
 <p>
-  <img src="https://design0.app/favicon.ico" alt=icon of Design0" width="24" height="24" />
-  <a href="https://design0.app" target="_blank">Design0</a> - Effortless Design for Everyone
+  <img src="https://design0.ai/favicon.ico" alt=icon of Design0" width="24" height="24" />
+  <a href="https://design0.ai" target="_blank">Design0</a> - Effortless AI  Design for Everyone
 </p>
 <p>
   <img src="https://www.aimathsolve.com/favicon.ico" alt="icon of AI Math Solver" width="24" height="24" />
