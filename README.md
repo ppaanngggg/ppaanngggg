@@ -44,10 +44,6 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ppaanngggg&show_icons=true&locale=en&layout=compact&exclude_repo=fhog,Speedx,KCFTracker,PyCTP,MyGrabCut,LockScreen,3d_printer,HumanTrack,ObjectFinder,PMIG" alt="ppaanngggg" />
-</p>
-
 <h2>❤️ Support Me</h2>
 <p>
 <a href="https://www.buymeacoffee.com/ppaanngggg">
