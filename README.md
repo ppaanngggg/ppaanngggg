@@ -3,7 +3,6 @@
 <p>
   I am a full-stack developer interested in investment and machine learning. I'd like to open source user-friendly application. And I am a coffee roaster!
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=ppaanngggg&show_icons=true&locale=en&card_width=300" alt="ppaanngggg" />
 
 <h2>🎉 My Side Projects</h2>
 <p>
@@ -17,10 +16,6 @@
 <p>
   <img src="https://freeocr.ai/favicon.ico" alt="icon of FreeOCR.AI" width="24" height="24" />
   <a href="https://stockwise.pro" target="_blank">FreeOCR.AI</a> - Free OCR powered by AI
-</p>
-<p>
-  <img src="https://token-counter.app/favicon.ico" alt="icon of LLM Token Coutner" width="24" height="24" />
-  <a href="https://token-counter.app" target="_blank">LLM Token Counter</a> - A tool for counting tokens in Large Language Models
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
