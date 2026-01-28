@@ -15,7 +15,7 @@
 </p>
 <p>
   <img src="https://freeocr.ai/favicon.ico" alt="icon of FreeOCR.AI" width="24" height="24" />
-  <a href="https://stockwise.pro" target="_blank">FreeOCR.AI</a> - Free OCR powered by AI
+  <a href="https://freeocr.ai" target="_blank">FreeOCR.AI</a> - Free OCR powered by AI
 </p>
 
 <h2>🚀 Languages and Tools I Use</h2>
