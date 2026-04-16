@@ -6,11 +6,27 @@
 
 <h2>🎉 My Side Projects</h2>
 
-- <img src="https://design0.ai/favicon.ico" alt="icon of Design0" width="24" height="24" /> <a href="https://design0.ai" target="_blank">Design0</a> - Effortless AI Design for Everyone
-- <img src="https://www.aimathsolve.com/favicon.ico" alt="icon of AI Math Solver" width="24" height="24" /> <a href="https://www.aimathsolve.com" target="_blank">AI Math Solver</a> - An AI-powered math problem solver
-- <img src="https://freeocr.ai/favicon.ico" alt="icon of FreeOCR.AI" width="24" height="24" /> <a href="https://freeocr.ai" target="_blank">FreeOCR.AI</a> - Free OCR powered by AI
+<table>
+  <tr>
+    <td><img src="https://design0.ai/favicon.ico" alt="icon of Design0" width="20" height="20" /></td>
+    <td><a href="https://design0.ai" target="_blank"><strong>Design0</strong></a></td>
+    <td>Effortless AI Design for Everyone</td>
+  </tr>
+  <tr>
+    <td><img src="https://www.aimathsolve.com/favicon.ico" alt="icon of AI Math Solver" width="20" height="20" /></td>
+    <td><a href="https://www.aimathsolve.com" target="_blank"><strong>AI Math Solver</strong></a></td>
+    <td>An AI-powered math problem solver</td>
+  </tr>
+  <tr>
+    <td><img src="https://freeocr.ai/favicon.ico" alt="icon of FreeOCR.AI" width="20" height="20" /></td>
+    <td><a href="https://freeocr.ai" target="_blank"><strong>FreeOCR.AI</strong></a></td>
+    <td>Free OCR powered by AI</td>
+  </tr>
+</table>
+
 
 <h2>🚀 Languages and Tools I Use</h2>
+
 <table>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /><br/>Linux</td>
